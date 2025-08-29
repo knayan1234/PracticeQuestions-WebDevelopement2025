@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Coding GIF">
 </p>
 
 # 🌐 WebDev-Practice-2025 💻✨  
