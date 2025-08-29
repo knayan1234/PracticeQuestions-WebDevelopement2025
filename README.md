@@ -37,6 +37,6 @@ This repository is my **practice companion**: where theory turns into hands-on q
 ---
 
 <p align="center">
-  <b>📚 Theory lives in:</b> <a href="#">WebDevelopment-2025</a><br>
+  <b>📚 Theory lives in:</b> <a href="[#](https://github.com/knayan1234/WebDevelopment-2025)">WebDevelopment-2025</a><br>
   <b>🛠 Practice lives here.</b>
 </p>
