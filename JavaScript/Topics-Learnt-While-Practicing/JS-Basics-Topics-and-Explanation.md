@@ -5,3 +5,8 @@
 5. Triangle ineqality theoram
 6. `Array.prototype.sort` method
 7. setInterval vs setTimeout - recursion issue
+8. node terminal input
+9. isNaN
+10. isInteger
+11. UTC IST difference in date constructor
+12. JS max and min method
