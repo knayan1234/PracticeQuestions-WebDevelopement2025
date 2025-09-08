@@ -12,3 +12,4 @@
 12. JS max and min method
 13. eval
 14. pop
+15. parseInt
