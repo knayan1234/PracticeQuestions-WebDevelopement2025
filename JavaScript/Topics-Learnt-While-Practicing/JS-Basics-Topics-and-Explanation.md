@@ -10,3 +10,5 @@
 10. isInteger
 11. UTC IST difference in date constructor
 12. JS max and min method
+13. eval
+14. pop
