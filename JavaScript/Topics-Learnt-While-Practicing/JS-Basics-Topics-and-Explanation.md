@@ -13,3 +13,5 @@
 13. eval
 14. pop
 15. parseInt
+16. string methods
+17. sort method
