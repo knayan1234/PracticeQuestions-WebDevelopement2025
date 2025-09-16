@@ -27,3 +27,6 @@ else if (charCode >= 65 && charCode <= 90) {
   newStr += String.fromCharCode(((charCode - 65 + 1) % 26) + 65);
 }
 ```
+
+19. join
+20. learn regex
