@@ -31,3 +31,14 @@ else if (charCode >= 65 && charCode <= 90) {
 19. join
 20. learn regex
 21. Sliding window-jsBasics-question90,91
+22. Trailing zero 112
+23. diagonal matrix 115
+24. matrix 117
+25. point inside the circle
+26. matrix 121
+27. NOR 124
+28. Reverse Bits 127
+29. Prime, immediate prime
+30. Prefix sum array
+31. distinct prime
+32. ASCII magic number 219
