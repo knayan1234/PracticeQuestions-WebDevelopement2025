@@ -42,3 +42,4 @@ else if (charCode >= 65 && charCode <= 90) {
 30. Prefix sum array
 31. distinct prime
 32. ASCII magic number 219
+33. Bitwise 138
