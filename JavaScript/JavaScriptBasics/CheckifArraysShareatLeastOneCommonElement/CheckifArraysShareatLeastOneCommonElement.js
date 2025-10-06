@@ -30,3 +30,16 @@ function checkArrays(arr1, arr2) {
 
 console.log(checkArrays([1, 2, 3, 4], [4, 5, 6]));
 console.log(checkArrays([4, 5, 6], [1, 2, 3]));
+
+//best approach
+
+function twoPointer(a, b) {
+  let i = 0,
+    j = 0;
+  while (i < a.length && j < b.length) {
+    if (a[i] == b[j]) return true;
+    if (a[i] < b[j]) i++;
+    else j++;
+  }
+  return false;
+}

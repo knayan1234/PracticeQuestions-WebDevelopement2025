@@ -17,3 +17,12 @@ console.log(is_permutation([1, 2, 3, 4, 5], 5)); // Output: true (permutation of
 console.log(is_permutation([1, 2, 3, 5], 5)); // Output: false (not a permutation of [1, 2, 3, 4, 5])
 
 //REcheck
+
+function isIncreasing(arr) {
+  let isInc = false;
+  for (let i = 0; i < arr.length - 1; i++) {
+    if (arr[i] < arr[i + 1]) isInc = true;
+    else isInc = false;
+  }
+  return isInc;
+}
