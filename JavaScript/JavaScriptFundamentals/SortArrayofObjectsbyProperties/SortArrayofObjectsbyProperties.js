@@ -7,7 +7,12 @@ const people = [
 ];
 
 // Sort by age (ascending), then by name (ascending)
-people.sort((a, b) => a.age - b.age || a.name.localeCompare(b.name));
+people.sort((a, b) => {
+  if (a.age !== b.age) return a.age - b.age;
+  return a.name.localeCompare(b.name);
+});
+
+// people.sort((a, b) => a.age - b.age || a.name.localeCompare(b.name));
 
 console.log(people);
 // Output:

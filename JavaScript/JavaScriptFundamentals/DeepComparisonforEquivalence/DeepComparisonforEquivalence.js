@@ -1,0 +1,1 @@
+/* Write a JavaScript program to perform a deep comparison between two values to determine if they are equivalent. */
