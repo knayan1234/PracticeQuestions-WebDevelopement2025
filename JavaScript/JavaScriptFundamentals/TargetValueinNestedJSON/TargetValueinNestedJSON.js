@@ -28,6 +28,7 @@ function findKey(key, obj) {
   }
 
   for (let value of Object.values(obj)) {
+    console.log("Value: ", value);
     let result = findKey(key, value);
     if (result !== null) {
       return result;

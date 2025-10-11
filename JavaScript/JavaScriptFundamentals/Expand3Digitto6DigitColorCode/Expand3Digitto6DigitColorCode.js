@@ -19,3 +19,14 @@ function change(code) {
       .join("")
   );
 }
+
+function change(num) {
+  let n = num
+    .slice(1)
+    .split("")
+    .reduce((acc, curr, i) => {
+      return acc + curr + curr;
+    }, "#");
+
+  return n;
+}
